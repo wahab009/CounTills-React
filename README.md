@@ -19,3 +19,6 @@ Toggle between sleek light and eye-friendly dark themes for better readability a
 
 This tool is perfect for quick edits, content validation, or general use cases where fast and clean text formatting is needed.
 
+
+
+slamalikum
