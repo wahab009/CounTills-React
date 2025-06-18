@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CounTills-React/static/css/main.f15870a0.css",
+    "main.js": "/CounTills-React/static/js/main.4a167dfe.js",
+    "static/js/453.02b6ed6f.chunk.js": "/CounTills-React/static/js/453.02b6ed6f.chunk.js",
+    "index.html": "/CounTills-React/index.html",
+    "main.f15870a0.css.map": "/CounTills-React/static/css/main.f15870a0.css.map",
+    "main.4a167dfe.js.map": "/CounTills-React/static/js/main.4a167dfe.js.map",
+    "453.02b6ed6f.chunk.js.map": "/CounTills-React/static/js/453.02b6ed6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f15870a0.css",
+    "static/js/main.4a167dfe.js"
+  ]
+}
