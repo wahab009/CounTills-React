@@ -1,6 +1,6 @@
 import './App.css';
 // import About from './components/About';
-// import Alerts from './components/Alerts';
+// import Alerts from './components/Alerts' //here we are importing the alerts from  components/alerts.js
 import Navbar from './components/Navbar';
 import Textforms from './components/Textforms';
 import React, { useState, useEffect } from 'react';
